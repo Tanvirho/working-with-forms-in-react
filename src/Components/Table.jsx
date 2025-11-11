@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { UseFilter } from "../Hooks/UseFilter";
-import { ContextMenu } from "./contextMenu";
+import { ContextMenu } from "./ContextMenu";
 
 export const Table = ({
   tableData,
